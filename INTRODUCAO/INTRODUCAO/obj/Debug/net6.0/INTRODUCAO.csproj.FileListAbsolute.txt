@@ -1,0 +1,15 @@
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\bin\Debug\net6.0\INTRODUCAO.exe
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\bin\Debug\net6.0\INTRODUCAO.deps.json
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\bin\Debug\net6.0\INTRODUCAO.runtimeconfig.json
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\bin\Debug\net6.0\INTRODUCAO.dll
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\bin\Debug\net6.0\INTRODUCAO.pdb
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\INTRODUCAO.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\INTRODUCAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\INTRODUCAO.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\INTRODUCAO.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\INTRODUCAO.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\INTRODUCAO.dll
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\refint\INTRODUCAO.dll
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\INTRODUCAO.pdb
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\INTRODUCAO.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\INTRODUCAO\INTRODUCAO\obj\Debug\net6.0\ref\INTRODUCAO.dll
